@@ -14,7 +14,7 @@ public class Person {
         this.lastNamel = lastNamel;
         this.age = age;
     }
-
+    //comand + "N" than chuse toString
     @Override
     public String toString() {
         return "Person{" +
