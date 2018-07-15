@@ -10,6 +10,6 @@ public class Main {
 
         Movie m = new Movie("moana", "wwww.Moumou.com", 2016);
 
-        m.print();
+        System.out.println(m);
     }
 }
