@@ -1,39 +1,39 @@
-package com.company;
+package com.company.utils;
 import java.util.Scanner;
 
 public class IO {
     //getString, getInt, getFloat, getDouble
-    static int getInt(String message) {
+    public static int getInt(String message) {
         System.out.println(message);
         Scanner in = new Scanner(System.in);
         return in.nextInt();
     }
 
-    static String getString(String message) {
+    public static String getString(String message) {
         System.out.println(message);
         Scanner in = new Scanner(System.in);
         return in.next();
     }
 
-    static double getDouble(String message) {
+    public static double getDouble(String message) {
         System.out.println(message);
         Scanner in = new Scanner(System.in);
         return in.nextDouble();
     }
 
-    static boolean getBoolean(String message) {
+    public static boolean getBoolean(String message) {
         System.out.println(message);
         Scanner in = new Scanner(System.in);
         return in.nextBoolean();
     }
 
-    static float getFloat(String message) {
+    public static float getFloat(String message) {
         System.out.println(message);
         Scanner in = new Scanner(System.in);
         return in.nextFloat();
     }
 
-    static int[][] getMultTable() {
+    public static int[][] getMultTable() {
         int n = IO.getInt("Table size?");
 
         int[][] table = new int[n][n];//{{0, 0, 0}, {0, 0, 0}, {0, 0, 0}}
@@ -46,7 +46,7 @@ public class IO {
         return table;
     }
 
-    static int[] getIntArray() {
+    public static int[] getIntArray() {
         //קלוט מס' שלם - n
         int n = IO.getInt("How many items?");
         //ניצור מערך מגודל n
@@ -59,7 +59,7 @@ public class IO {
         return arr;
     }
 
-    static double getAvg(int[] arr) {
+    public static double getAvg(int[] arr) {
         double sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
@@ -68,7 +68,7 @@ public class IO {
     }
 
     //print arr
-    static void print(int[] arr) {
+    public static void print(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             //System.out.print(arr[i] + " "); //print in one line.
 
@@ -79,7 +79,7 @@ public class IO {
         System.out.println();
     }
 
-    static void print(int[][] arr) {
+    public static void print(int[][] arr) {
         for (int i = 0; i < arr.length; i++) {
             IO.print(arr[i]);
         }

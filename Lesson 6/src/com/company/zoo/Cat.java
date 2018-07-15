@@ -1,8 +1,10 @@
-package com.company;
+package com.company.zoo;
 
+
+import com.company.zoo.Animal;
 
 //animel is the super class
-public class Cat extends Animal{
+public class Cat extends Animal {
 
     //properties:
     int numOfLives;
@@ -22,6 +24,6 @@ public class Cat extends Animal{
 
     @Override
     public String toString() {
-        return "num Of Lives: " + numOfLives;
+        return super.toString() + "num Of Lives: " + numOfLives;
     }
 }

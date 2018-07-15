@@ -1,4 +1,6 @@
-package com.company;
+package com.company.zoo;
+
+import com.company.zoo.Cat;
 
 public class Tiger extends Cat {
 
@@ -21,6 +23,6 @@ public class Tiger extends Cat {
 
     @Override
     public String toString() {
-        return "num Spots: " + numSpots;
+        return super.toString() + "num Spots: " + numSpots;
     }
 }
