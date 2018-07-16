@@ -36,4 +36,8 @@ public class Person {
                 ", lastName='" + lastName + '\'' +
                 '}';
     }
+
+    public void fooBar(){
+        System.out.println("Foo!");
+    }
 }
