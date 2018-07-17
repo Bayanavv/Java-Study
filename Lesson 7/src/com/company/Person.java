@@ -13,21 +13,10 @@ public class Person {
         this.lastName = lastName;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
+    public String getFirstName() { return firstName; }
+    public void setFirstName(String firstName) { this.firstName = firstName; }
+    public String getLastName() { return lastName; }
+    public void setLastName(String lastName) { this.lastName = lastName; }
 
     @Override
     public String toString() {
@@ -38,6 +27,11 @@ public class Person {
     }
 
     public void fooBar(){
+        System.out.println("name: " + firstName);
         System.out.println("Foo!");
+    }
+
+    public static void bar(){
+
     }
 }
