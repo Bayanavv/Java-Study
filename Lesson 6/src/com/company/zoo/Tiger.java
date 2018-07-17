@@ -7,12 +7,10 @@ public class Tiger extends Cat {
     //properties:
     int numSpots;
 
-
     //constructor:
     public Tiger(boolean isAlive, String lastFeed, int numOfLives, int numSpots) {
         super(isAlive, lastFeed, numOfLives);
         this.numSpots = numSpots;
-
     }
 
     @Override
