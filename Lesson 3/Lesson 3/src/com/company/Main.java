@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Scanner in new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
         /*
         int x = 10;
@@ -26,7 +26,7 @@ public class Main {
 
         int m = 0;
         //קלוט מספר למשתנה a
-        System.out.println("enter A");
+        System.out.println("enter A:");
         int a = in.nextInt();
 
         //קלוט מספר למשתנה b
@@ -36,7 +36,16 @@ public class Main {
         //עבור k מ a עד b (כולל) בצע
         for (int k = a; k < b; k++) {
             //קלוט מספר למשתנה x
+            System.out.println("enter x:");
+            int x = in.nextInt();
+
+            //אם(X < A) וגם (X < B)
+            //m <--- m + 1
+            if(x > a && x < b){
+                m = m + 1;
+            }
         }
+        System.out.println(m);
 
     }
 }
