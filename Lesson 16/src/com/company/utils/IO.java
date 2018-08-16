@@ -145,4 +145,13 @@ public final class IO{
         }
     }
 
+    public static int getRandom(int from, int to){
+        if(to < from){
+            throw new IllegalArgumentException("to must be greater than from");
+        }
+        double randomDouble = Math.random() * (to - from);
+        int randomInt = (int) randomDouble;
+        return  randomInt;
+    }
+
 }

@@ -1,6 +1,7 @@
-package com.company.utils;
+package com.company.utiles;
 
-import java.util.Scanner;
+
+        import java.util.Scanner;
 
 /**
  * created a new class called IO -> new Java Class... IO
@@ -143,6 +144,15 @@ public final class IO{
         for (int i = 0; i < arr.length; i++) {
             IO.print(arr[i]);
         }
+    }
+
+    public static int getRandom(int from, int to){
+        if(to < from){
+            throw new IllegalArgumentException("to must be greater than from");
+        }
+        double randomDouble = Math.random() * (to - from);
+        int randomInt = (int) randomDouble;
+        return  randomInt;
     }
 
 }
