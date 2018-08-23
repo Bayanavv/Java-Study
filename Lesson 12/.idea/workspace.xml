@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93525143-ed26-4a5c-a738-c01c633045b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lesson 16/src/com/company/MyTimerTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lesson 16/src/com/company/RandomTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 16/src/com/company/utils/IO.java" afterPath="$PROJECT_DIR$/../Lesson 16/src/com/company/utils/IO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 10/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 11/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 11/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 6/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 7/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 8/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson 9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson 9/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,9 +90,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,6 +122,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -243,6 +249,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
@@ -265,18 +279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          <folding>
-            <element signature="method#getInt#0;class#IO#0" expanded="false" />
-            <element signature="method#getString#0;class#IO#0" expanded="false" />
-            <element signature="method#getDouble#0;class#IO#0" expanded="false" />
-            <element signature="method#getBoolean#0;class#IO#0" expanded="false" />
-            <element signature="method#getFloat#0;class#IO#0" expanded="false" />
-            <element signature="method#getMultTable#0;class#IO#0" expanded="false" />
-            <element signature="method#getIntArray#0;class#IO#0" expanded="false" />
-            <element signature="method#getAvg#0;class#IO#0" expanded="false" />
-            <element signature="method#print#0;class#IO#0" expanded="false" />
-            <element signature="method#print#1;class#IO#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -304,18 +306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding>
-            <element signature="method#getInt#0;class#IO#0" expanded="false" />
-            <element signature="method#getString#0;class#IO#0" expanded="false" />
-            <element signature="method#getDouble#0;class#IO#0" expanded="false" />
-            <element signature="method#getBoolean#0;class#IO#0" expanded="false" />
-            <element signature="method#getFloat#0;class#IO#0" expanded="false" />
-            <element signature="method#getMultTable#0;class#IO#0" expanded="false" />
-            <element signature="method#getIntArray#0;class#IO#0" expanded="false" />
-            <element signature="method#getAvg#0;class#IO#0" expanded="false" />
-            <element signature="method#print#0;class#IO#0" expanded="false" />
-            <element signature="method#print#1;class#IO#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -343,18 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="method#getInt#0;class#IO#0" expanded="false" />
-            <element signature="method#getString#0;class#IO#0" expanded="false" />
-            <element signature="method#getDouble#0;class#IO#0" expanded="false" />
-            <element signature="method#getBoolean#0;class#IO#0" expanded="false" />
-            <element signature="method#getFloat#0;class#IO#0" expanded="false" />
-            <element signature="method#getMultTable#0;class#IO#0" expanded="false" />
-            <element signature="method#getIntArray#0;class#IO#0" expanded="false" />
-            <element signature="method#getAvg#0;class#IO#0" expanded="false" />
-            <element signature="method#print#0;class#IO#0" expanded="false" />
-            <element signature="method#print#1;class#IO#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -382,29 +360,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="method#getInt#0;class#IO#0" expanded="false" />
-            <element signature="method#getString#0;class#IO#0" expanded="false" />
-            <element signature="method#getDouble#0;class#IO#0" expanded="false" />
-            <element signature="method#getBoolean#0;class#IO#0" expanded="false" />
-            <element signature="method#getFloat#0;class#IO#0" expanded="false" />
-            <element signature="method#getMultTable#0;class#IO#0" expanded="false" />
-            <element signature="method#getIntArray#0;class#IO#0" expanded="false" />
-            <element signature="method#getAvg#0;class#IO#0" expanded="false" />
-            <element signature="method#print#0;class#IO#0" expanded="false" />
-            <element signature="method#print#1;class#IO#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/IO.java" />
-    <entry file="file://$USER_HOME$/Downloads/IO-2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/IO-2.java" />
     <entry file="file://$PROJECT_DIR$/Lesson 12.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -428,18 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
-          <folding>
-            <element signature="method#getInt#0;class#IO#0" expanded="false" />
-            <element signature="method#getString#0;class#IO#0" expanded="false" />
-            <element signature="method#getDouble#0;class#IO#0" expanded="false" />
-            <element signature="method#getBoolean#0;class#IO#0" expanded="false" />
-            <element signature="method#getFloat#0;class#IO#0" expanded="false" />
-            <element signature="method#getMultTable#0;class#IO#0" expanded="false" />
-            <element signature="method#getIntArray#0;class#IO#0" expanded="false" />
-            <element signature="method#getAvg#0;class#IO#0" expanded="false" />
-            <element signature="method#print#0;class#IO#0" expanded="false" />
-            <element signature="method#print#1;class#IO#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
