@@ -19,7 +19,9 @@ public class Animal {
     public void eat(){
         System.out.println("Animal.eat() called");
     }
-    public void move(){}
+    public void move(int speed){
+        System.out.println("Animel.moce() called.   Animal is moving at speed " + speed);
+    }
 
     public int getBrain() {
         return brain;
@@ -40,4 +42,6 @@ public class Animal {
     public String getName() {
         return name;
     }
+
+
 }
