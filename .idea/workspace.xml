@@ -2,125 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d63fce45-3354-4b0b-be0b-578d63a328ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/Movie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Hawk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Lion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Raven.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/animels/Tiger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 06/src/com/company/utils/IO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Animel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Bird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Dack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/Driveable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/birds/Flyable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/shapes/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/shapes/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/shapes/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/shapes/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson 07/src/com/company/utils/IO.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 01/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 02/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 04/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 05/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 08/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 10/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/Lesson 11.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 11/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/Lesson 12.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/out/production/Lesson 12/com/company/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/out/production/Lesson 12/com/company/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/out/production/Lesson 12/com/company/utils/IO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/src/com/company/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 12/src/com/company/utils/IO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/Lesson 13.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 13/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/Lesson 14.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/Center.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/OffensePlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/Player.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/guard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 14/src/com/company/utils/IO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/Lesson 15.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/Card.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/Deck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/Hand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/IO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 15/src/com/company/utiles/IO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/Lesson 16.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/BarmenThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/Fish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/GetAirUnderTheWaterRunnble.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/MyTimerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/TailRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/TestRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/out/production/Lesson 16/com/company/utils/IO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/BarmenThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/Fish.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/GetAirUnderTheWaterRunnble.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/MyTimerTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/RandomTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/TailRunnable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/TestRunnable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 16/src/com/company/utils/IO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 17/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 17/src/com/company/people.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 18/src/com/company/TrivialQuestion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 18/src/com/company/TrivialQuiz.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson 18/src/com/company/utils/IO.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/bayanavv/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/bayanavv/Dog.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson 10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Lesson 10/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson 10/src/com/company/Main.java" afterPath="$PROJECT_DIR$/Lesson 10/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,17 +16,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="75">
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,12 +77,26 @@
       <projects_view />
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/bayanavv/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/bayanavv/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/bayanavv/Dog.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="y" value="-221" />
+    <option name="width" value="2560" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -171,10 +110,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rec5" type="1abcf292:AndroidViewProjectNode" />
+              <item name="rec5" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="rec5" type="1abcf292:AndroidViewProjectNode" />
+              <item name="rec5" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="rec5" type="1abcf292:AndroidViewProjectNode" />
+              <item name="rec5" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="bayanavv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rec5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rec5" type="58d84e3e:PackageViewProjectNode" />
+              <item name="rec5" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -222,9 +202,17 @@
       <envs />
       <method />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -234,14 +222,22 @@
       <option name="presentableId" value="Default" />
       <updated>1554560690465</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Exercise 1">
+      <created>1554560753294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554560753294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="-221" width="2560" height="1080" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -252,7 +248,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13860206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -270,15 +266,49 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Exercise 1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        <state relative-caret-position="75">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bayanavv/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
           <folding />
         </state>
       </provider>
