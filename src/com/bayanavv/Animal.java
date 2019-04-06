@@ -16,7 +16,9 @@ public class Animal {
         this.name = name;
     }
 
-    public void eat(){}
+    public void eat(){
+        System.out.println("Animal.eat() called");
+    }
     public void move(){}
 
     public int getBrain() {
